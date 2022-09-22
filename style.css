@@ -1,0 +1,1043 @@
+* {
+    overflow-x: hidden;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+html{
+    scroll-behavior: smooth;
+}
+#para {
+    font-size: 17px;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    /* text-align: left; */
+}
+
+#para1 {
+    font-size: 17px;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    /* text-align: left; */
+}
+
+#icon {
+    font-size: 30px;
+    margin-left: 0%;
+    color: orangered;
+    position: relative;
+    border: 1px solid wheat;
+    background-color: wheat;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 8px;
+
+}
+
+#icon1 {
+    font-size: 30px;
+    margin-left: 0%;
+    color: orangered;
+    position: relative;
+    border: 1px solid wheat;
+    background-color: wheat;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 8px;
+}
+
+#get {
+    background-color: rgb(185, 181, 181);
+    width: fit-content;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 2px;
+    font-family: 'Montserrat';
+    text-align: center;
+
+}
+
+#ansh {
+    justify-content: flex-start;
+}
+
+#ansh1 {
+    justify-content: flex-start;
+}
+
+#training {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding-bottom: 30px;
+    background-color: #e5e5e5;
+    padding-right: 20px;
+}
+
+#training1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.1rem;
+    background-color: #f3f0f0;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#hard {
+    padding-top: 41px;
+    height: 146px;
+    font-family: 'Playfair Display';
+}
+
+#training1 p {
+    position: relative;
+    top: 130px;
+    left: 3px;
+    text-transform: capitalize;
+    padding-left: 4px;
+    /* font-family: 'fangsong'; */
+    font-family: 'Montserrat', sans-serif; 
+}
+
+#training h3 {
+    padding-top: 20px;
+    letter-spacing: 7px;
+    margin-left: 129px;
+    font-size: 1.1rem;
+    font-family: 'Roboto';
+    margin-bottom: -27px;
+    font-weight: 600;
+}
+
+.social {
+    position: relative;
+    top: 190px;
+    left: 12px;
+}
+
+.social i {
+    font-size: 22px;
+    padding-left: 18px;
+}
+
+#focus {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    flex-direction: column;
+}
+
+#focus p {
+    font-size: 35px;
+    font-family: 'Playfair Display';
+
+}
+
+.media {
+    display: flex;
+}
+
+.media i {
+    padding: 0 12px;
+    font-size: 25px;
+}
+
+#need {
+    background-color: #e5e5e5;
+}
+#need img{
+    padding-top: 16px;
+    padding-bottom: 14px;
+    padding-left: 0px;
+}
+
+#need1 {
+    background-color: #e5e5e5;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+#need1 p {
+    font-size: 36px;
+    font-family: 'Playfair Display';
+    position: relative;
+    left: 22%;
+}
+
+#need1 p1 {
+    font-size: 18px;
+    text-align: center;
+    /* font-family: 'Roboto'; */
+    /* font-family: 'Montserrat', sans-serif; */
+    /* font-weight: 600; */
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#btm {
+    margin-top: 20px;
+    width: 430px;
+    position: relative;
+    left: 13%;
+}
+
+#btm span {
+    font-family: 'Playfair Display';
+}
+
+#clean {
+    color: white;
+    text-align: center;
+    /* width: 330px; */
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#clean p {
+    font-size: 2.25rem;
+    /* font-family: 'Playfair Display'; */
+    text-align: left;
+    position: relative;
+    top: 33px;
+    font-family: 'Poppins', sans-serif;
+    left: 25px;
+}
+
+#clean1 {
+    /* width: 330px; */
+    height: 300px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+}
+
+#clean2 {
+    /* width: 330px; */
+    height: 300px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#arrow1 {
+    font-size: 75px;
+    position: relative;
+    top: 3px;
+    text-align: left;
+    left: 25px;
+}
+
+#arrow2 {
+    font-size: 57px;
+}
+
+#clean1 p {
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.happy {
+    /* min-height: 331px; */
+    background-image: url("happy.jpeg");
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+#clean_1 {
+    height: 300px;
+    background-color: white;
+}
+
+#clean_2 {
+    height: 300px;
+}
+
+#clean_3 {
+    height: 300px;
+    background-color: white;
+}
+
+#clean_1 p {
+    font-size: 1.20rem;
+    /* font-family: 'Playfair Display'; */
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    top: 33px;
+
+}
+
+#arrow3 {
+    font-size: 50px;
+    position: relative;
+    top: 20px;
+
+}
+
+#clean_3 p {
+    font-size: 1.20rem;
+    /* font-family: 'Playfair Display'; */
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    top: 33px;
+
+}
+
+#arrow4 {
+    font-size: 50px;
+    position: relative;
+    top: 20px;
+
+}
+
+.nitik {
+    /* min-height: 289px; */
+    background-image: url("dogo2.jpg");
+    background-position: 0% 6.29%;
+    background-size: cover;
+}
+
+#course {
+    height: 315px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: black;
+}
+
+#course p {
+    font-size: 50px;
+    color: white;
+    font-family: 'Open Sans';
+}
+
+#course span {
+    display: block;
+    width: 160px;
+    height: 8px;
+    background-color: white;
+}
+
+#form {
+    width: 458px;
+    position: relative;
+    top: 36px;
+}
+
+#course p1 {
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    position: relative;
+    top: 21px;
+}
+
+#form span2 {
+    color: white;
+}
+
+.ansh {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.backgroundimg {
+    background-image: url("epic.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+    /* width: 100vw; */
+}
+
+.speak {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+}
+
+.speak p {
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 5.4rem;
+    letter-spacing: 1px;
+}
+
+.speak p1 {
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 800;
+    position: relative;
+    bottom: 30px;
+}
+
+#top {
+    height: 38px;
+}
+
+.royal {
+    min-height: 834px;
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url("royal.jpeg");
+    background-position: 29.87% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+}
+
+.cute {
+    position: relative;
+    /* left: 173px; */
+    top: 25px;
+    width: 300px;
+    height: 300px;
+    background-image: url("cutiee.jpeg");
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 50% !important;
+}
+
+#rest {
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 39px;
+}
+
+#rest p {
+    color: black;
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 1.25rem;
+    font-family: 'Roboto';
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.royal p {
+    color: white;
+    font-size: 3.75rem;
+    font-weight: bolder;
+    font-family: 'Roboto';
+    text-align: center;
+    position: relative;
+    bottom: 29px;
+}
+
+.royal p1 {
+    color: white;
+    font-family: 'Open Sans';
+    text-align: center;
+    position: relative;
+    bottom: 37px;
+}
+
+#sad {
+    min-height: 480px;
+    background-image: url(sad.jpeg);
+    background-position: 63.05% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 35px;
+    width: 539px;
+    margin: 56px 60px;
+}
+
+#sad1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 204px;
+    margin-top: 69px;
+}
+
+.text {
+    text-align: center;
+}
+
+.text1 {
+    text-align: center;
+}
+
+.text p {
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin-top: 5px;
+    position: relative;
+    left: 4px;
+    font-family: 'Roboto';
+    font-weight: 600;
+}
+
+.text1 p {
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin-top: 5px;
+    position: relative;
+    right: 6px;
+    font-family: 'Roboto';
+    font-weight: 600;
+}
+
+#sad2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 204px;
+    margin-top: 69px;
+}
+
+.text2 p {
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin-top: 5px;
+    position: relative;
+    left: 15px;
+    font-family: 'Roboto';
+    font-weight: 600;
+}
+
+.text3 {
+    width: 275px;
+    height: 194px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.text3 p {
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin-top: 5px;
+    font-family: 'Roboto';
+    font-weight: 600;
+}
+
+.text2 {
+    position: relative;
+    left: 48px;
+}
+
+.text3 {
+    position: relative;
+    left: 45px;
+}
+
+.last {
+    min-height: 599px;
+    background-image: url("last.jpeg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    right: 42px;
+}
+#end{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#mainbox{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.count{
+    height:100%;
+}
+.box{
+    background-color:black;
+    color: white;
+    padding: 30px;
+    margin-top: 41px;
+    margin-bottom: 41px;
+}
+#mainarrow{
+    font-size: 70px;
+    font-weight: bolder;
+}
+.box p{
+    font-family: 'Poppins';
+    font-weight:700;
+}
+.box p1{
+    font-family: 'Montserrat';
+    position: relative;
+    top: 8px;
+}
+.counter-numbers{
+    font-size: 3rem;
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+#count1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#count2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#count3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#count4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.social a{
+    color: black;
+}
+.media a{
+    color:white;
+}
+.num1{
+    font-size: 3rem;
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsiveness Start */
+@media screen and (max-width:991px) {
+    #demand {
+        text-align: center;
+    }
+
+    #get {
+        background-color: white;
+        color: black;
+        width: 100% !important;
+    }
+
+    #main {
+        padding-bottom: 2%;
+    }
+
+    #main1 {
+        padding-bottom: 2%;
+    }
+
+    #get {
+        padding-top: 2%;
+    }
+
+    #para {
+        padding-bottom: 2%;
+    }
+
+    #icon {
+        font-size: 40px;
+    }
+
+    #icon1 {
+        font-size: 40px;
+    }
+
+    #focus {
+        height: 450px;
+
+    }
+
+    #course {
+        height: 500px;
+    }
+
+    .speak p {
+        font-size: 4rem;
+    }
+
+    .speak p1 {
+        font-size: 1.2rem;
+    }
+
+    #sad1 {
+        margin-top: 0px;
+    }
+
+    #sad {
+        margin-left: 0px;
+        margin: 0px;
+    }
+
+    #sad2 {
+        margin-top: 0px !important;
+    }
+}
+
+@media screen and (max-width:767px) {
+    #main {
+        padding-bottom: 2%;
+    }
+
+    #main1 {
+        padding-bottom: 2%;
+    }
+
+    #icon {
+        font-size: 40px;
+    }
+
+    #icon1 {
+        font-size: 40px;
+    }
+
+    #training {
+        text-align: center !important;
+    }
+
+    #training h3 {
+        text-align: center !important;
+        margin-left: 0;
+    }
+
+    #hard {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #training1 {
+        height: 220px !important;
+    }
+
+    .social {
+        position: relative;
+        top: 0px;
+        text-align: center;
+        left: 0;
+    }
+
+    #training1 p {
+        position: relative;
+        top: 0px;
+        text-align: center;
+        left: 0;
+    }
+
+    #focus {
+        font-size: 25px;
+    }
+
+    .media {
+        font-size: 20px;
+    }
+
+    #need1 p {
+        font-size: 30px !important;
+
+    }
+
+    .royal {
+        min-height: 369px;
+    }
+
+    .royal p {
+        font-size: 2.6rem;
+    }
+
+    .royal p1 {
+        font-size: 15px;
+    }
+    #count1{
+        padding: 18px;
+    }
+    #count2{
+        padding: 18px;
+    }
+    #count3{
+        padding: 18px;
+    }
+    #count4{
+        padding: 18px;
+    }
+    #maincounter{
+        padding-bottom: 20px;
+    }
+}
+
+@media screen and (max-width:300px) {
+    #training1 {
+        height: 300px !important;
+    }
+
+    #focus {
+        height: 500px;
+    }
+
+    #need1 p {
+        font-size: 18px !important;
+
+    }
+}
+
+
+@media screen and (max-width:1001px) {
+    #demand h1 {
+        font-size: 2.4rem !important;
+    }
+
+    #sad {
+        width: 100%;
+        margin: 0 0;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:1310px) {
+    .social {
+        top: 0;
+        text-align: center;
+    }
+
+    #training1 p {
+        top: 0px;
+        text-align: center;
+    }
+
+    #training h3 {
+        margin-bottom: 0;
+    }
+
+    #hard {
+        padding-top: 0px;
+    }
+}
+
+@media screen and (max-width:1199px) {
+    #need1 p {
+        font-size: 36px;
+        font-family: 'Playfair Display';
+        position: relative;
+        left: 0;
+    }
+
+    #btm {
+        margin-top: 20px;
+        width: 430px;
+        position: relative;
+        left: 0;
+    }
+}
+
+@media screen and (max-width:450px) {
+    #btm {
+        width: fit-content;
+    }
+
+    #focus p {
+        font-size: 29px !important;
+    }
+
+    .speak p {
+        font-size: 3.3rem;
+        position: relative;
+        bottom: 81px;
+    }
+
+    .speak p1 {
+        font-size: 15px;
+        position: relative;
+        bottom: 100px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    #form {
+        width: fit-content;
+    }
+
+    #course {
+        height: 600px;
+    }
+
+    .royal p {
+        font-size: 2.3rem;
+    }
+
+    .royal p1 {
+        font-size: 14px;
+    }
+
+    .text3 {
+        width: 141px;
+        height: 145px;
+        left: 5px;
+    }
+
+    .text2 {
+        left: 14px;
+    }
+
+    #sad {
+        margin-top: 22px;
+        margin-left: 0px;
+        width: 100%;
+        min-height: 303px;
+    }
+    .last{
+        min-height: 403px;
+    }
+    #need img{
+        margin-top: 16px;
+    }
+    #training1 p{
+        font-size: 17px;
+    }
+    #need img{
+        padding-top: 0px;
+   
+    }
+
+}
+
+@media screen and (max-width:350px) {
+    .speak p {
+        font-size: 2.5rem;
+    }
+
+    .speak p1 {
+        font-size: 12px;
+
+    }
+
+    #rest p {
+        font-size: 1.1rem;
+    }
+
+    .text img {
+        width: 74px !important;
+    }
+
+    .text1 img {
+        width: 74px !important;
+    }
+
+    .text2 img {
+        width: 74px !important;
+    }
+
+    .text3 img {
+        width: 74px !important;
+    }
+}
+
+@media screen and (max-width:485px) {
+    .royal p {
+        font-size: 2rem;
+        bottom: 14px;
+    }
+
+    .royal p1 {
+        font-size: 12px;
+        bottom: 27px;
+    }
+}
+
+@media screen and (max-width:420px) {
+    .royal p {
+        font-size: 1.7rem;
+    }
+
+    .royal p1 {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width:1290px) {
+    #sad {
+        margin: 0 0;
+    }
+}
+
+@media screen and (max-width:1054px) {
+    #sad {
+        width: 100%;
+    }
+
+    #sad0 {
+        width: 100%;
+
+    }
+}
+
+@media screen and (min-width:501px) and (max-width:1296px) {
+    .text3 {
+        width: 188px;
+        height: 163px;
+        position: relative;
+        left: 24px;
+    }
+
+    .text2 {
+        position: relative;
+        left: 31px;
+    }
+}
+@media screen and (max-width:991px){
+    .last{
+        right: 0;
+    }
+    #flowerend{
+        margin-top: 21px;
+    }
+}
+
+@media screen and (max-width:320px){
+    #training1 p {
+        font-size: 15px;
+    }
+}
